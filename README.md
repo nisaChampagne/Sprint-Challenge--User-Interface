@@ -1,3 +1,24 @@
+
+
+1) Semantic HTML helps make your html code make sense and gives it order.
+
+
+2) - display: block; is displayed as a block while display: inline; is displayed in the block of text on the same line.
+   - display: block; has whitespace above and below .
+
+
+3) content, then padding, then border, and margin in that order.
+
+
+4) align= cross axis;
+
+
+5) git provides records of changes to your code incase you need to go back to a certain version over time. 
+
+
+
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
